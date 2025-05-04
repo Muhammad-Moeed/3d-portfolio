@@ -24,12 +24,12 @@ import tailwind from "./tech/tailwind.png";
 import threejs from "./tech/threejs.svg";
 import typescript from "./tech/typescript.png";
 
-import project1 from "./projects/project1.png";
-import project2 from "./projects/project2.png";
-import project3 from "./projects/project3.png";
-import project4 from "./projects/project4.png";
-import project5 from "./projects/project5.png";
-import project6 from "./projects/project6.png";
+import project1 from "./projects/project1.PNG";
+import project2 from "./projects/project2.PNG";
+import project3 from "./projects/project3.PNG";
+import project4 from "./projects/project4.PNG";
+import project5 from "./projects/project5.PNG";
+import project6 from "./projects/project6.PNG";
 
 import freelance from "./company/freelance.png";
 import marketplace from "./company/marketplace.png";
